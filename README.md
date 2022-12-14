@@ -67,11 +67,11 @@ ________________________________________________________________________________
 
 <h2> Timeline: 
  <h3> <li> SGML: 1987
- HTML: 1993
- XML: 1996
- DHTML: 1997
- XHTML: 2000
- MD: 2004
+ <h3> <li> HTML: 1993
+  <h3> <li>XML: 1996
+  <h3> <li>DHTML: 1997
+  <h3> <li>XHTML: 2000
+  <h3> <li>MD: 2004
 
  <h3> Link to further elaborate [https://www.youtube.com/watch?v=Y1r4RF3nW6I]  [https://www.youtube.com/watch?v=CG6deJGVe6c]
 
