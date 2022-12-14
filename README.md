@@ -64,14 +64,15 @@ ________________________________________________________________________________
  
 <h3> What Is the relationship between SGML, XML, HTML, XHTML, DHTML and MD? [https://courses.cs.washington.edu/courses/cse100/03au/PartOne/markup.htm]
  </h4> HTML and XML are both descendants of an earlier markup language known as SGML. SGML Is a complicated set of rules that define document structures. XML Is a subset of SGML that does the same thing, using fewer rules. XHTML Is a stricter, more XML-based version of HTML. XHTML Is HTML defined as an XML application. XHTML Is supported by all major browsers. HTML Is not a markup or programming language but It Is a term that combines the features of various web development technologies for creating the web pages Interactive. Markdown Is a lightweight markup language for creating formatted text using a plain-text editor.
-Timeline: 
-SGML: 1987
-HTML: 1993
-XML: 1996
-DHTML: 1997
-XHTML: 2000
-MD: 2004
-Link to further elaborate:                                               [(https://www.youtube.com/watch?v=Y1r4RF3nW6I)]  [(https://www.youtube.com/watch?v=CG6deJGVe6c)]
+
+<h2> Timeline: 
+<h3> <li> SGML: 1987
+<h3> <li> HTML: 1993
+<h3> <li> XML: 1996
+<h3> <li> DHTML: 1997
+<h3> <li> XHTML: 2000
+<h3> <li> MD: 2004
+Link to further elaborate [https://www.youtube.com/watch?v=Y1r4RF3nW6I]  [https://www.youtube.com/watch?v=CG6deJGVe6c]
 
 
  
