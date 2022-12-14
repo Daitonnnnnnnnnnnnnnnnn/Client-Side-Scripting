@@ -1,8 +1,8 @@
-<h1> Client-Side-Scripting
-What Is Internet Backbone? -
-<p> Internet backbone Is the core of the Internet where long-distance, high performance networks enable different selections of the Internet to be accessed. Internet Backbone Is basically the principal data routes connected to strategically connected computer networks and routers of the Internet. It Is the Internet.
-What Is the difference between clients and servers on the Internet? -
-A server Is a sample of software or hardware that plays a specific service to Its clients whilst a client Is a user program that connects to a server to access a service. A server Is a sample of software or hardware that serves a specific service to Its clients. 
+ <h1> Client-Side-Scripting
+ <h3> What Is Internet Backbone? -
+ </h4> Internet backbone Is the core of the Internet where long-distance, high performance networks enable different selections of the Internet to be accessed.  Internet Backbone Is basically the principal data routes connected to strategically connected computer networks and routers of the Internet. It Is the Internet.
+<h3> What Is the difference between clients and servers on the Internet? -
+</h4> A server Is a sample of software or hardware that plays a specific service to Its clients whilst a client Is a user program that connects to a server to access a service. A server Is a sample of software or hardware that serves a specific service to Its clients. 
 
 How are certain hardware components such as Routers, Servers, Switches and Work stations a part of the Internet? -
 What do Routers do:
