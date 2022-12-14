@@ -64,7 +64,7 @@ ________________________________________________________________________________
  
 <h3> What Is the relationship between SGML, XML, HTML, XHTML, DHTML and MD? [https://courses.cs.washington.edu/courses/cse100/03au/PartOne/markup.htm]
  </h4> HTML and XML are both descendants of an earlier markup language known as SGML. SGML Is a complicated set of rules that define document structures. XML Is a subset of SGML that does the same thing, using fewer rules. XHTML Is a stricter, more XML-based version of HTML. XHTML Is HTML defined as an XML application. XHTML Is supported by all major browsers. HTML Is not a markup or programming language but It Is a term that combines the features of various web development technologies for creating the web pages Interactive. Markdown Is a lightweight markup language for creating formatted text using a plain-text editor.
-
+_______________________________________________________________________________________________________________________________________________________
 <h2> Timeline: 
  
  <h3> <li>          SGML: </h4> 1987
@@ -75,15 +75,15 @@ ________________________________________________________________________________
      <h3> <li>      MD: </h4> 2004
 
  <h3> Link to further elaborate [https://www.youtube.com/watch?v=Y1r4RF3nW6I]  [https://www.youtube.com/watch?v=CG6deJGVe6c]
-
+_______________________________________________________________________________________________________________________________________________________
 
  
  
  
 <h3> What are some of my own Interests, values, beliefs, resources, prior to these learning experiences? -
- </h4> I don't really have too many Interests In this topic. Although I am taking this course, I generally have a small Interest In coding, though I thought It would be fun to learn some basics as It’d simply be handy to have In your knowledge. 
+ </h4> I don't really have too many Interests In this topic. Although I am taking this course, I generally have a small Interest In coding. Though I thought It would be fun to learn some basics as It’d simply be handy to have In your knowledge. 
 
 <h3> How does CSE1210 connect to your future occupational choices? -
- </h4> It doesn't much
+ </h4> It doesn't. Sure It could maybe help In some sciences but those sciences are not what I'm potentially taking. 
 
 
