@@ -6,11 +6,11 @@
 </h4> A server Is a sample of software or hardware that plays a specific service to Its clients whilst a client Is a user program that connects to a server to access a service. A server Is a sample of software or hardware that serves a specific service to Its clients. 
 
 <h2> How are certain hardware components such as Routers, Servers, Switches and Work stations a part of the Internet? -
-<li> <h3> What do Routers do:
+<h3> <li> What do Routers do:
 </h4> Routers connect two or more networks or subnetworks. In other words, Routers manage traffic between networks. You can enable and disable networks at will and you can have multiple connected to a singular source or multiple connected to different sources In the same household. 
-<li> <h3> What do Servers do:
+<h3> <li> What do Servers do:
 </h4> Servers receive, store and send data. Basically the server or servers act as the main hub of the network, providing Information to devices at which they are connected.
-<li> <h3> What do Switches do:
+<h3> <li> What do Switches do:
 </h4> Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
  
  
