@@ -79,12 +79,10 @@ ________________________________________________________________________________
  
  
  
-What are some of my own Interests, values, beliefs, resources, prior to these learning experiences? -
+<h3> What are some of my own Interests, values, beliefs, resources, prior to these learning experiences? -
+ </h4> I don't really have too many Interests In this topic. Although I am taking this course, I generally have a small Interest In coding, though I thought It would be fun to learn some basics as It’d simply be handy to have In your knowledge. 
 
-
-I don't really have too many Interests In this topic. Although I am taking this course, I generally have a small Interest In coding, though I thought It would be fun to learn some basics as It’d simply be handy to have In your knowledge. 
-
-How does CSE1210 connect to your future occupational choices? -
-It doesn't much
+<h3> How does CSE1210 connect to your future occupational choices? -
+ </h4> It doesn't much
 
 
