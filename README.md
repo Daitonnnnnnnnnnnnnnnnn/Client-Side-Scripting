@@ -4,7 +4,7 @@
 
  <h3> What Is the difference between clients and servers on the Internet? -
 </h4> A server Is a sample of software or hardware that plays a specific service to Its clients whilst a client Is a user program that connects to a server to access a service. A server Is a sample of software or hardware that serves a specific service to Its clients. 
-________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________
 <h2> How are certain hardware components such as Routers, Servers, Switches and Work stations a part of the Internet? -
 <h3> <li> What do Routers do:
 </h4> Routers connect two or more networks or subnetworks. In other words, Routers manage traffic between networks. You can enable and disable networks at will and you can have multiple connected to a singular source or multiple connected to different sources In the same household. 
@@ -12,10 +12,10 @@ ________________________________________________________________________________
 </h4> Servers receive, store and send data. Basically the server or servers act as the main hub of the network, providing Information to devices at which they are connected.
 <h3> <li> What do Switches do:
 </h4> Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
-_________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________
  
  
-<h3> What Is the Internet Protocol Suite (TCP/IP) model of networking and how does this protocol provide the data transfer mechanism required to establish Client/Server relationships? -
+ <h3> What Is the Internet Protocol Suite (TCP/IP) model of networking and how does this protocol provide the data transfer mechanism required to establish Client/Server relationships? -
  </h4> The Internet protocol suite, also known as TCP/IP, Is the set of communication protocols used In the Internet and also In relative computer networks. TCP and IP are 2 separate computer network protocols. IP Is the part that has the address In which Is where data Is sent. TCP Is responsible for data delivery once the IP address has been found. 
 <h3> 3 Examples of Internet services that rely upon client/server relationships? - 
  </h4> 3 Examples Include the Server connected to perhaps your home devices such as your PC, iPhone or Television. They will request data from a server whilst the server responds with a receival of that data needed. 
@@ -25,17 +25,20 @@ ________________________________________________________________________________
  
  
  
-What Is hypertext? -
-Hypertext Is text which Is displayed on a computer or other devices with references to other text that a user/reader can Immediately access. Hypertext documents are Interconnected by hyperlinks, and hyperlinks are typically activated by a mouse click, keypress set, or screen touch.
+ <h3> What Is hypertext? -
+ </h4> Hypertext Is text which Is displayed on a computer or other devices with references to other text that a user/reader can Immediately access. Hypertext documents are Interconnected by hyperlinks, and hyperlinks are typically activated by a mouse click, keypress set, or screen touch.
 
-What Is the “Web” and how does It associate with the Internet? -
-The Web Is a software that lets you use content that Is provided within Web Browsers. Examples of Web Browsers are Google, Microsoft Edge, Firefox ETC.
-How Is HTTP used to facilitate a client/server Interaction? -  
-When a client makes a request from a website server, HTTP takes that request and sets a connection between client and server through TCP. HTTP sends the request over to the server, which pulls up the requested Information and then sends It back through by carrying the response back to the client.
-How Is HTTPS different from HTTP? -
-The two are essentially the same In the sense that they refer to the same “hypertext transfer protocol” that enables needed data from the web to be presented on your screen; but HTTPS Is still slightly different In that It Is more advanced and much more secure. Therefore, the HTTPS protocol Is an extension of HTTP.
-What were the stages of development of the Web In general terms using the Web 1.0, Web 2.0, and Web 3.0 generational paradigms? - [https://www.investopedia.com/web-20-web-30-5208698] 
-Web 2.0 and Web 3.0 refer to successive Iterations of the web, compared with Web 1.0 of the 1990s and early 2000s. Web 2.0 Is the current version of the Internet. Web 3.0 Is the third generation of the World Wide Web. It Is currently a work In progress and It’s a vision of a decentralized and open Web with greater utility for Its users.
+ <h3> What Is the “Web” and how does It associate with the Internet? -
+ </h4> The Web Is a software that lets you use content that Is provided within Web Browsers. Examples of Web Browsers are Google, Microsoft Edge, Firefox ETC.
+
+ <h3> How Is HTTP used to facilitate a client/server Interaction? -  
+ </h4> When a client makes a request from a website server, HTTP takes that request and sets a connection between client and server through TCP. HTTP sends the request over to the server, which pulls up the requested Information and then sends It back through by carrying the response back to the client.
+
+ <h3> How Is HTTPS different from HTTP? -
+ </h4> The two are essentially the same In the sense that they refer to the same “hypertext transfer protocol” that enables needed data from the web to be presented on your screen; but HTTPS Is still slightly different In that It Is more advanced and much more secure. Therefore, the HTTPS protocol Is an extension of HTTP.
+ <h3> What were the stages of development of the Web In general terms using the Web 1.0, Web 2.0, and Web 3.0 generational paradigms? 
+[https://www.investopedia.com/web-20-web-30-5208698] 
+ </h4> Web 2.0 and Web 3.0 refer to successive Iterations of the web, compared with Web 1.0 of the 1990s and early 2000s. Web 2.0 Is the current version of the Internet. Web 3.0 Is the third generation of the World Wide Web. It Is currently a work In progress and It’s a vision of a decentralized and open Web with greater utility for Its users.
  
  
  
