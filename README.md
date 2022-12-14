@@ -15,10 +15,10 @@
  
  
  
-What Is the Internet Protocol Suite (TCP/IP) model of networking and how does this protocol provide the data transfer mechanism required to establish Client/Server relationships? -
-The Internet protocol suite, also known as TCP/IP, Is the set of communication protocols used In the Internet and also In relative computer networks. TCP and IP are 2 separate computer network protocols. IP Is the part that has the address In which Is where data Is sent. TCP Is responsible for data delivery once the IP address has been found. 
-3 Examples of Internet services that rely upon client/server relationships? - 
-3 Examples Include the Server connected to perhaps your home devices such as your PC, iPhone or Television. They will request data from a server whilst the server responds with a receival of that data needed. 
+<h3> What Is the Internet Protocol Suite (TCP/IP) model of networking and how does this protocol provide the data transfer mechanism required to establish Client/Server relationships? -
+ </h4> The Internet protocol suite, also known as TCP/IP, Is the set of communication protocols used In the Internet and also In relative computer networks. TCP and IP are 2 separate computer network protocols. IP Is the part that has the address In which Is where data Is sent. TCP Is responsible for data delivery once the IP address has been found. 
+<h3> 3 Examples of Internet services that rely upon client/server relationships? - 
+ </h4> 3 Examples Include the Server connected to perhaps your home devices such as your PC, iPhone or Television. They will request data from a server whilst the server responds with a receival of that data needed. 
 [https://nimesha-dilini.medium.com/simple-introduction-to-client-server-architecture-concept-7d2979bed31d]
 
  
