@@ -66,11 +66,12 @@ ________________________________________________________________________________
  </h4> HTML and XML are both descendants of an earlier markup language known as SGML. SGML Is a complicated set of rules that define document structures. XML Is a subset of SGML that does the same thing, using fewer rules. XHTML Is a stricter, more XML-based version of HTML. XHTML Is HTML defined as an XML application. XHTML Is supported by all major browsers. HTML Is not a markup or programming language but It Is a term that combines the features of various web development technologies for creating the web pages Interactive. Markdown Is a lightweight markup language for creating formatted text using a plain-text editor.
 
 <h2> Timeline: 
- <h3> <li> SGML: </h4> 1987
+ 
+ <h3> <li>          SGML: </h4> 1987
    <h3> <li>        HTML: </h4>1993
    <h3> <li>        XML: </h4> 1996
      <h3> <li>      DHTML: </h4> 1997
-      <h3> <li>     XHTML: <h/4> 2000
+      <h3> <li>     XHTML: </h4> 2000
      <h3> <li>      MD: </h4> 2004
 
  <h3> Link to further elaborate [https://www.youtube.com/watch?v=Y1r4RF3nW6I]  [https://www.youtube.com/watch?v=CG6deJGVe6c]
