@@ -1,16 +1,17 @@
  <h1> Client-Side-Scripting
  <h3> What Is Internet Backbone? -
  </h4> Internet backbone Is the core of the Internet where long-distance, high performance networks enable different selections of the Internet to be accessed.  Internet Backbone Is basically the principal data routes connected to strategically connected computer networks and routers of the Internet. It Is the Internet.
-<h3> What Is the difference between clients and servers on the Internet? -
+
+ <h3> What Is the difference between clients and servers on the Internet? -
 </h4> A server Is a sample of software or hardware that plays a specific service to Its clients whilst a client Is a user program that connects to a server to access a service. A server Is a sample of software or hardware that serves a specific service to Its clients. 
 
-How are certain hardware components such as Routers, Servers, Switches and Work stations a part of the Internet? -
-What do Routers do:
-Routers connect two or more networks or subnetworks. In other words, Routers manage traffic between networks. You can enable and disable networks at will and you can have multiple connected to a singular source or multiple connected to different sources In the same household. 
-What do Servers do:
-Servers receive, store and send data. Basically the server or servers act as the main hub of the network, providing Information to devices at which they are connected.
-What do Switches do:
-Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
+<h3> How are certain hardware components such as Routers, Servers, Switches and Work stations a part of the Internet? -
+<li> What do Routers do:
+</h4> Routers connect two or more networks or subnetworks. In other words, Routers manage traffic between networks. You can enable and disable networks at will and you can have multiple connected to a singular source or multiple connected to different sources In the same household. 
+<li> What do Servers do:
+</h4> Servers receive, store and send data. Basically the server or servers act as the main hub of the network, providing Information to devices at which they are connected.
+<li> What do Switches do:
+</h4> Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
  
  
  
