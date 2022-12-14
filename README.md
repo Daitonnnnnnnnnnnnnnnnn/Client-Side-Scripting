@@ -12,7 +12,7 @@ ________________________________________________________________________________
 </h4> Servers receive, store and send data. Basically the server or servers act as the main hub of the network, providing Information to devices at which they are connected.
 <h3> <li> What do Switches do:
 </h4> Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
-________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________
  
  
  <h3> What Is the Internet Protocol Suite (TCP/IP) model of networking and how does this protocol provide the data transfer mechanism required to establish Client/Server relationships? -
@@ -75,7 +75,7 @@ ________________________________________________________________________________
      <h3> <li>      MD: </h4> 2004
 
  <h3> Link to further elaborate [https://www.youtube.com/watch?v=Y1r4RF3nW6I]  [https://www.youtube.com/watch?v=CG6deJGVe6c]
-________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________
 
  
  
