@@ -36,25 +36,23 @@ ________________________________________________________________________________
 
  <h3> How Is HTTPS different from HTTP? -
  </h4> The two are essentially the same In the sense that they refer to the same “hypertext transfer protocol” that enables needed data from the web to be presented on your screen; but HTTPS Is still slightly different In that It Is more advanced and much more secure. Therefore, the HTTPS protocol Is an extension of HTTP.
+
  <h3> What were the stages of development of the Web In general terms using the Web 1.0, Web 2.0, and Web 3.0 generational paradigms? 
-[https://www.investopedia.com/web-20-web-30-5208698] 
+ [https://www.investopedia.com/web-20-web-30-5208698] 
  </h4> Web 2.0 and Web 3.0 refer to successive Iterations of the web, compared with Web 1.0 of the 1990s and early 2000s. Web 2.0 Is the current version of the Internet. Web 3.0 Is the third generation of the World Wide Web. It Is currently a work In progress and It’s a vision of a decentralized and open Web with greater utility for Its users.
  
  
  
-Compare and contrast the Web 1.0, 2.0 and 3.0 stages of development? -
-Web 1.0 Is the "read-only Web," Web 2.0 Is the "participative social Web," and Web 3.0 Is the "read, write, execute Web."Link to following question:
-[(https://www.youtube.com/watch?v=bsNcjya56v8&t=3s)]
+ <h3> Compare and contrast the Web 1.0, 2.0 and 3.0 stages of development? -
+ </h4> Web 1.0 Is the "read-only Web," Web 2.0 Is the "participative social Web," and Web 3.0 Is the "read, write, execute Web."Link to following question:
+[https://www.youtube.com/watch?v=bsNcjya56v8&t=3s]
 
 
-What are the roles of markup languages on the Web? -
- 
-Markup languages are computer languages that are used to structure, format, or define relationships between different parts of text documents with the help of symbols or tags inserted In the document.
+ <h3> What are the roles of markup languages on the Web? - 
+</h4> Markup languages are computer languages that are used to structure, format, or define relationships between different parts of text documents with the help of symbols or tags inserted In the document.
 
-What are some comparisons and contrasts to markup to scripting languages? -
-
-
-A markup language Is used to control the presentation of data, like "represent these usernames as a bullet list or as a table". A scripting language Is used to mediate between programs In order to generate data.
+<h3> What are some comparisons and contrasts to markup to scripting languages? -
+ </h4> A markup language Is used to control the presentation of data, like "represent these usernames as a bullet list or as a table". A scripting language Is used to mediate between programs In order to generate data.
 
 
  
@@ -64,10 +62,8 @@ A markup language Is used to control the presentation of data, like "represent t
  
  
  
-What Is the relationship between SGML, XML, HTML, XHTML, DHTML and MD? [https://courses.cs.washington.edu/courses/cse100/03au/PartOne/markup.htm]
-
-
-HTML and XML are both descendants of an earlier markup language known as SGML. SGML Is a complicated set of rules that define document structures. XML Is a subset of SGML that does the same thing, using fewer rules. XHTML Is a stricter, more XML-based version of HTML. XHTML Is HTML defined as an XML application. XHTML Is supported by all major browsers. HTML Is not a markup or programming language but It Is a term that combines the features of various web development technologies for creating the web pages Interactive. Markdown Is a lightweight markup language for creating formatted text using a plain-text editor.
+<h3> What Is the relationship between SGML, XML, HTML, XHTML, DHTML and MD? [https://courses.cs.washington.edu/courses/cse100/03au/PartOne/markup.htm]
+ </h4> HTML and XML are both descendants of an earlier markup language known as SGML. SGML Is a complicated set of rules that define document structures. XML Is a subset of SGML that does the same thing, using fewer rules. XHTML Is a stricter, more XML-based version of HTML. XHTML Is HTML defined as an XML application. XHTML Is supported by all major browsers. HTML Is not a markup or programming language but It Is a term that combines the features of various web development technologies for creating the web pages Interactive. Markdown Is a lightweight markup language for creating formatted text using a plain-text editor.
 Timeline: 
 SGML: 1987
 HTML: 1993
@@ -75,14 +71,7 @@ XML: 1996
 DHTML: 1997
 XHTML: 2000
 MD: 2004
-
- 
- 
- 
- 
- 
- 
-    Link to further elaborate:                                               [(https://www.youtube.com/watch?v=Y1r4RF3nW6I)]  [(https://www.youtube.com/watch?v=CG6deJGVe6c)]
+Link to further elaborate:                                               [(https://www.youtube.com/watch?v=Y1r4RF3nW6I)]  [(https://www.youtube.com/watch?v=CG6deJGVe6c)]
 
 
  
